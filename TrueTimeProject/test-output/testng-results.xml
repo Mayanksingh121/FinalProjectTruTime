@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-19T17:29:40 IST" name="Default suite" finished-at="2023-06-19T17:30:29 IST" duration-ms="49270">
+    <groups>
+    </groups>
+    <test started-at="2023-06-19T17:29:40 IST" name="Default test" finished-at="2023-06-19T17:30:29 IST" duration-ms="49270">
+      <class name="testCases.TestCase">
+        <test-method is-config="true" signature="openDriver()[pri:0, instance:testCases.TestCase@5b239d7d]" started-at="2023-06-19T17:29:32 IST" name="openDriver" finished-at="2023-06-19T17:29:40 IST" duration-ms="7982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDriver -->
+        <test-method signature="testOne()[pri:1, instance:testCases.TestCase@5b239d7d]" started-at="2023-06-19T17:29:40 IST" name="testOne" finished-at="2023-06-19T17:29:44 IST" duration-ms="3654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="testTwo()[pri:2, instance:testCases.TestCase@5b239d7d]" started-at="2023-06-19T17:29:44 IST" name="testTwo" finished-at="2023-06-19T17:30:08 IST" duration-ms="24004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method signature="testThree()[pri:3, instance:testCases.TestCase@5b239d7d]" started-at="2023-06-19T17:30:08 IST" name="testThree" finished-at="2023-06-19T17:30:08 IST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method signature="testFour()[pri:4, instance:testCases.TestCase@5b239d7d]" started-at="2023-06-19T17:30:08 IST" name="testFour" finished-at="2023-06-19T17:30:29 IST" duration-ms="20815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method is-config="true" signature="testFive()[pri:0, instance:testCases.TestCase@5b239d7d]" started-at="2023-06-19T17:30:29 IST" name="testFive" finished-at="2023-06-19T17:30:31 IST" duration-ms="1406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFive -->
+      </class> <!-- testCases.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
